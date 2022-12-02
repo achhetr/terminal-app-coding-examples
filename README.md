@@ -5,6 +5,7 @@
 ## File (Bonus)
 
 ## Shopping Cart
+## MVC architecture
 A fruit company sells products in packages
 Once receipt generated we will deliver items to the customer's address
 - banana -> 1 = $1, 3 = $2.5, 6 = $4.5
