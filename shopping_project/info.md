@@ -5,6 +5,3 @@ A fruit company sells products in packages
 
 write a shopping cart to order any items and print receipt
 `Your total for 10 bananas and 14kg apples are = $53.00`
-
-# Static Method using @staticmethod   
-# Class method using @classmethod
